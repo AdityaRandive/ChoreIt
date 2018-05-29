@@ -16,8 +16,8 @@ public class GroupsFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.groups_fragment, container, false);
-        FloatingActionButton chores_fab = (FloatingActionButton) view.findViewById(R.id.groups_fab);
-        chores_fab.setOnClickListener(new View.OnClickListener() {
+        FloatingActionButton groups_fab = (FloatingActionButton) view.findViewById(R.id.groups_fab);
+        groups_fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getActivity(), "Floating button works in groups!", Toast.LENGTH_LONG).show();
