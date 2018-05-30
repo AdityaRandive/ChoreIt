@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "741675082280",
+    "firebase_url": "https://choreit-34977.firebaseio.com",
+    "project_id": "choreit-34977",
+    "storage_bucket": "choreit-34977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741675082280:android:6075fcba00f07940",
+        "android_client_info": {
+          "package_name": "com.choreit.aditya.choreit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741675082280-one74vsrpdhj1sdtr3lp4sdoe868frob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.choreit.aditya.choreit",
+            "certificate_hash": "d65a214cab17314c45096f91f773a5e5bfec4326"
+          }
+        },
+        {
+          "client_id": "741675082280-r9k2q3uih27t0hlsc2a852uhedde1a5e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "741675082280-r9k2q3uih27t0hlsc2a852uhedde1a5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArihqikZoB5GXv2KQBLbJymK1SbNZotus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741675082280-r9k2q3uih27t0hlsc2a852uhedde1a5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
